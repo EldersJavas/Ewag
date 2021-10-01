@@ -1,1 +1,1 @@
-module "Ebiten_WAG"
+module "github.com/EldersJavas/Ewag"
