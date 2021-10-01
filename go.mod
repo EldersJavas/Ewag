@@ -1,0 +1,1 @@
+module "Ebiten_WAG"
